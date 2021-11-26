@@ -1,0 +1,16 @@
+<div class="col l-12">
+    <a href="" style="width: 100%; text-decoration: none;">
+        <div class="product">
+            <div class="product-cover">
+                <img src="https://cdn.luxstay.com/home/location/location_1_1559734709.png" alt="" class="product-img">
+            </div>
+            <div class="product-content">
+                <div class="product-title">Hà Nội</div>
+                <span class="num-of-pep">
+                    <b>2811</b>
+                    chỗ ở
+                </span>
+            </div>
+        </div>
+    </a>
+</div>
